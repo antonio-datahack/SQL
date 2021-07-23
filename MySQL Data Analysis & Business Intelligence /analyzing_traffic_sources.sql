@@ -5,7 +5,9 @@ use mavenfuzzyfactory;
 -- CVR (conversion rate) is the percentage of those sessions which convert to our sales or revenue activity. --
 -- with CVR we can understand how highly qualified that traffic is and how valuable each of those traffic source is to us --
 
--- 23. ASSIGNMENT: Traffic Source Conversion Rates--
+-- ----------------------------------------------- --
+-- 23. ASSIGNMENT: Traffic Source Conversion Rates --
+-- ----------------------------------------------- --
 
 SELECT *
 FROM website_sessions
